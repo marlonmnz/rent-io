@@ -14,7 +14,11 @@ export function Heading () {
         </div>
         <div className="flex items-center">
           <a href="" className="text-lg font-medium text-[#212121] mr-[60px] hover:underline underline-offset-8 decoration-2 decoration-[#E23D3D] transition-all">Sign Up</a>
-          <Button className="bg-[#E23D3D] py-[11px] px-[30px] text-white rounded-lg hover:bg-[#CF3030] transition-colors"/>
+          <Button 
+            className="bg-[#E23D3D] 
+            py-[11px] px-[30px] 
+            text-white rounded-lg 
+            hover:bg-[#CF3030] transition-colors">Sign in</Button>
         </div>
       </nav>
     </header>

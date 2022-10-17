@@ -1,7 +1,6 @@
-import React from 'react'
 
-export function Button ({className, props}) {
+export function Button ({className, children}) {
   return (
-    <button className={className}>Sign in</button>
+    <button className={className}>{children}</button>
   )
 }

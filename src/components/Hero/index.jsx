@@ -17,7 +17,12 @@ export function Hero() {
           your trip .
         </p>
 
-        <Button className='bg-[#E23D3D] py-[11px] px-[30px] text-white rounded-lg hover:bg-[#CF3030] transition-colors' />
+        <Button 
+          className='bg-[#E23D3D] 
+          py-[11px] px-[30px] 
+          text-white rounded-lg 
+          hover:bg-[#CF3030] 
+          transition-colors'>Know More</Button>
       </div>
     </section>
   );
