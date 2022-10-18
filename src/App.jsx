@@ -1,6 +1,6 @@
-import { Heading } from './components/Heading'
+import { Heading } from './container/Heading'
 import './App.css'
-import { Hero } from './components/Hero'
+import { Hero } from './container/Hero'
 
 function App() {
 
