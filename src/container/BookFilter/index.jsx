@@ -8,7 +8,7 @@ import { DatePickerField } from '../../components/DatePickerField'
 
 export function BookFilter() {
   return (
-    <div className="w-full max-w-[1030px] bg-white py-[41px] px-20 rounded-xl flex items-center justify-around">
+    <div className="w-full max-w-[1030px] bg-white py-[41px] px-20 rounded-xl flex items-center justify-around mb-[50px]">
       <SelectField 
         image={locationImage}
         alt="Location Icon"
