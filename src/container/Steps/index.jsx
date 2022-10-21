@@ -23,7 +23,7 @@ export function Steps () {
             title="Choose a location"
             description={`See popular hotels at a heavily \ndiscounted price`}
           />
-          <img src={ArrowRight1} alt="" className="absolute -top-3 left-[80px] max-w-none ml-5 mr-5"/>
+          <img src={ArrowRight1} alt="" className="absolute -top-3 left-[180px] max-w-none ml-5 mr-5"/>
         </div>
         <div className="flex items-end relative w-[470px]">
           <BoxIcon 
@@ -32,7 +32,7 @@ export function Steps () {
             title="Pick-up Date"
             description="Click choose and we'll pick one of the 3 hotels."
           />
-          <img src={ArrowRight2} alt="" className="absolute -bottom-5 left-[80px] max-w-none ml-5 mr-5"/>
+          <img src={ArrowRight2} alt="" className="absolute top-16 left-[180px] max-w-none ml-5 mr-5"/>
         </div>
         <div className="flex items-end relative">
           <BoxIcon 
