@@ -3,6 +3,7 @@ import './App.css'
 import { Hero } from './container/Hero'
 import { Steps } from './container/Steps'
 import { BestService } from './container/BestService'
+import { BestService2 } from './container/BestService2'
 
 function App() {
 
@@ -12,6 +13,7 @@ function App() {
       <Hero/>
       <Steps/>
       <BestService/>
+      <BestService2/>
     </>
   )
 }

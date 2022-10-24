@@ -4,7 +4,7 @@ import Three from '../../assets/bestService/three.svg';
 
 export function BestService() {
   return (
-    <div className='bg-black p-[100px] flex flex-col justify-between items-center'>
+    <div className='bg-black py-[100px] flex flex-col justify-between items-center'>
       <p className='text-white text-lg text-center'>Best Service</p>
       <h2 className='text-white text-center font-semibold leading-normal text-5xl mt-[10px] mb-[100px]'>
         Feel the best experience
@@ -36,7 +36,7 @@ export function BestService() {
             Deals for every budget
           </p>
           <p className='text-lg text-white'>
-            Incredible prices on hotels , flights , cars and packages worldwide
+            Incredible prices on hotels, flights, cars and packages worldwide
           </p>
         </div>
       </div>
